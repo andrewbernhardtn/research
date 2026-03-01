@@ -157,6 +157,7 @@ def main() -> None:
 
     raise ValueError(f"Unknown RUN_MODE: {RUN_MODE}")
 
+print('add picture')
 
 if __name__ == "__main__":
     main()
